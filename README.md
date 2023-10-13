@@ -1,3 +1,9 @@
+👋 Hi, I’m @RafaelAguirre2001
+👀 I’m interested in Programing and Futbol
+🌱 I’m currently learning ...
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
+
 ## 👉 Sobre mí
 Soy un **Estudiante de la carrera de Ingeneria de Sistemas** y **Practicante de la universidad  [Cesar Vallejo](https://www.ucv.edu.pe/)** . A continuación dejo mis redes sociales las cuales muy pronto subire contenido relacionado a la programación.
 
